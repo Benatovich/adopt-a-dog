@@ -1,4 +1,4 @@
-import { fetchDog, fetchDogs } from '../fetch-utils.js';
+import { fetchDog } from '../fetch-utils.js';
 import { renderDogDetail } from '../render-utils.js';
 
 const dogDetailContainer = document.getElementById('dog-detail-container');
